@@ -1,0 +1,36 @@
+/* Base styles for all lists */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Level 0 list styles */
+  .list-level-0 {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Level 1 list styles */
+  .list-level-1 {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+  
+  /* Level 2 list styles */
+  .list-level-2 {
+    list-style-type: square;
+    padding-left: 20px;
+  }
+  
+  /* Additional levels can be added as needed */
+  .list-level-3 {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  /* Level 4 list styles */
+  .list-level-4 {
+    list-style-type: circle;
+    padding-left: 20px;
+  }
+  
